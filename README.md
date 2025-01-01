@@ -9,7 +9,7 @@ Clone the repo
 git clone https://github.com/joannis-traios/sort-video-script.git
 ```
 
-CChange to the script directory
+Change to the script directory
 ```sh
 cd sort-video-script
 ```
