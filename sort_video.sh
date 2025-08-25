@@ -1,8 +1,6 @@
 #!/bin/bash
 
-# Fuction to check if ffprobe and rsync are installed
-# These tools are essential for extracting video information (ffprobe)
-# and safely copying/moving files with rsync.
+# Fuction to check if ffprobe and rsync are installed. Needed in this script.
 check_dependencies() {
     for cmd in ffprobe rsync; do
         # Check if the command exists in the system's PATH
